@@ -1,2 +1,3 @@
 nama = input("Nama = ")
-print("Hello World! Nama saya adalah ", nama)
+kelas = input("Kelas = ")
+print("Hello World! Nama saya adalah ", nama, "Kelas saya adalah ", kelas)
