@@ -1,1 +1,2 @@
-print("Hello World!")
+nama = input("Nama = ")
+print("Hello World! Nama saya adalah ", nama)
